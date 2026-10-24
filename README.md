@@ -64,6 +64,4 @@ Password: ********
 * GUI version
 * Database support
 
-## Author
-
-Lakshya Deep Ningwal
+BY LAkshya :)
